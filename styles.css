@@ -7,6 +7,8 @@
     width: 55vw;
     max-width: 500px;
     max-height: 500px;
+    animation-name: wheel;
+    animation-duration: 10s;
 }
 .line{
     position: absolute;
@@ -45,8 +47,8 @@ transform: rotate(60deg);
     top: 50%;
 }
 .cabin:nth-of-type(2){
-    right: 17;
-    top: 93.5;
+    right: 17%;
+    top: 93.5%;
 }
 .cabin:nth-of-type(3){
     right: 67%;
