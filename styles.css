@@ -17,3 +17,7 @@
     height: 2px;
     transform-origin: 0% 0%;
 }
+.line:nth-of-type(2){
+transform: rotate(60deg);
+
+}
