@@ -65,5 +65,7 @@ transform: rotate(60deg);
     top: 7%;
 }
 @keyframes wheel{
-    
+    0%{
+        
+    }
 }
